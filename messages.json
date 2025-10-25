@@ -1,10 +1,5 @@
 {
-  "64": {
-    "id": 64,
-    "content": "asdf"
-  },
-  "741": {
-    "id": 741,
-    "content": "second message"
-  }
+  "64": { "id": 64, "content": "asdf" },
+  "335": { "id": 335, "content": "message after Dependency Injection" },
+  "741": { "id": 741, "content": "second message" }
 }
